@@ -110,7 +110,7 @@ void loop()
   display.setTextSize(1);
   display.setTextColor(WHITE);
   display.setCursor(0,0);
-  display.println("Neschor duu!");
+  display.println("Wetterstation");
   display.print("Temperatur = ");
   display.println(temp);
   display.print("Humidity = ");
