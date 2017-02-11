@@ -26,3 +26,5 @@ Download DHT library (un-rar it) and include it to the Arduino libraries (On my 
 
 http://www.electroschematics.com/wp-content/uploads/2015/02/DHT.rar
 
+For the Display driver lookup the following link:
+https://www.instructables.com/id/Monochrome-096-i2c-OLED-display-with-arduino-SSD13/
